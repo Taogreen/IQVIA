@@ -1,0 +1,13 @@
+numpy==1.16.1
+keras==2.2.4
+python-docx==0.8.10
+bert-serving-server
+bert-serving-client
+Tensorflow==1.13.1
+imbalanced-learn==0.4.3
+fuzzywuzzy==0.17.0
+pandas==0.24.1
+dash==1.1.1
+pytorch-transformers==1.1.0
+flask==1.0.2
+# dash-bootstrap-components==0.7.1
