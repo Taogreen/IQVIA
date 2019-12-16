@@ -3,7 +3,7 @@ keras==2.2.4
 python-docx==0.8.10
 bert-serving-server
 bert-serving-client
-Tensorflow==1.13.1
+Tensorflow==1.15.0
 imbalanced-learn==0.4.3
 fuzzywuzzy==0.17.0
 pandas==0.24.1
