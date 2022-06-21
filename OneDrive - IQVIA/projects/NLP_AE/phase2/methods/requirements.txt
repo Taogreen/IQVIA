@@ -1,4 +1,4 @@
-numpy==1.16.1
+numpy==1.22.0
 keras==2.2.4
 python-docx==0.8.10
 bert-serving-server
